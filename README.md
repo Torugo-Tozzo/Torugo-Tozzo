@@ -30,6 +30,6 @@ Descrição breve do projeto e suas principais funcionalidades.
 
 ## Contato
 
-- Email: seuemail@gmail.com
-- LinkedIn: linkedin.com/in/seulinkedin
+- Email: victorhugo.tozzo@gmail.com
+- LinkedIn: linkedin.com/in/victor-hugo-tozzo-filho-259835254/
 - Twitter: @Tozzzim
