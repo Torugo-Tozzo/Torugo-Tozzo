@@ -1,16 +1,70 @@
-### Hi there 👋
+# Seu Nome
 
-<!--
-**Torugo-Tozzo/Torugo-Tozzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Conte um pouco sobre você, suas habilidades e interesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+Aqui estão algumas das tecnologias que estou mais familiarizado:
+
+| Linguagens   | Ferramentas | Bibliotecas / Frameworks |
+| ------------|------------|--------------------------|
+| JavaScript  | Git        | React.js                 |
+| HTML/CSS    | VS Code    | Node.js                  |
+| Python      | Docker     |                          |
+
+## Projetos
+
+### Nome do Projeto
+
+Descrição breve do projeto e suas principais funcionalidades.
+
+![Imagem do Projeto](./imagens/imagem_projeto.png)
+
+### Outro Projeto
+
+Descrição breve do projeto e suas principais funcionalidades.
+
+![Imagem do Projeto](./imagens/imagem_projeto.png)
+
+## Contato
+
+- Email: seuemail@gmail.com
+- LinkedIn: linkedin.com/in/seulinkedin
+- Twitter: @seutwitterhandle
+# Seu Nome
+
+## Sobre Mim
+
+Conte um pouco sobre você, suas habilidades e interesses.
+
+## Tecnologias
+
+Aqui estão algumas das tecnologias que estou mais familiarizado:
+
+| Linguagens   | Ferramentas | Bibliotecas / Frameworks |
+| ------------|------------|--------------------------|
+| JavaScript  | Git        | React.js                 |
+| HTML/CSS    | VS Code    | Node.js                  |
+| Python      | Docker     |                          |
+
+## Projetos
+
+### Nome do Projeto
+
+Descrição breve do projeto e suas principais funcionalidades.
+
+![Imagem do Projeto](./imagens/imagem_projeto.png)
+
+### Outro Projeto
+
+Descrição breve do projeto e suas principais funcionalidades.
+
+![Imagem do Projeto](./imagens/imagem_projeto.png)
+
+## Contato
+
+- Email: seuemail@gmail.com
+- LinkedIn: linkedin.com/in/seulinkedin
+- Twitter: @seutwitterhandle
