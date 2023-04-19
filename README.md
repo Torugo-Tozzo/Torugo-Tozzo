@@ -10,7 +10,7 @@ Aqui estão algumas das tecnologias que estou mais familiarizado:
 
 | Linguagens  | Bibliotecas / Frameworks |
 | ------------|--------------------------|
-| JavaScript  | Express, ejs, jquery, Node.js, React      |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  | Express, ejs, jquery, Node.js, React      |
 | HTML/CSS    | Bootstrap                |
 | MongoDB     | Mongoose                 |
 
