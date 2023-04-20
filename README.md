@@ -2,7 +2,7 @@
 
 ## Estudante de Ciência da Computação na UNIFAL-MG 
 
-Desenvolvedor web jr.
+Desenvolvedor jr.
 
 ## Tecnologias
 
