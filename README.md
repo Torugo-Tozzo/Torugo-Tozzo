@@ -30,7 +30,7 @@ Descrição breve do projeto e suas principais funcionalidades.
 
 ## Contato
 
-- Email: victorhugo.tozzo@gmail.com
+Mande uma mensagem para o endereço de email: victorhugo.tozzo@gmail.com
 
 Ou, clique abaixo
 
