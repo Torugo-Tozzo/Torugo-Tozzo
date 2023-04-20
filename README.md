@@ -6,7 +6,7 @@ Desenvolvedor web jr.
 
 ## Tecnologias
 
-Aqui estão algumas das tecnologias que estou mais familiarizado:
+Aqui estão algumas das tecnologias que aprendi/estou aprendendo:
 
 || Linguagens  | Bibliotecas / Frameworks |
 |------------| ------------|--------------------------|
