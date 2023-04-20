@@ -29,8 +29,8 @@ Descrição breve do projeto e suas principais funcionalidades.
 
 ## Contato
 
-- Email: victorhugo.tozzo@gmail.com
-Ou, clique abaixo
+- Email: victorhugo.tozzo@gmail.com<br/>
+Ou, clique abaixo<br/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorhugo.tozzo@gmail.com)
 
 ## 🌐 Socials:
