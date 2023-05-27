@@ -23,6 +23,7 @@ Uma aplicação web de converter videos do youtube a partir das urls.
 Testando os conhecimentos fullstack utilizando React e Nodejs.
 
 ![Imagem do Projeto](./imagens/imagem_projeto.png)
+[![Texto alternativo](https://github.com/Torugo-Tozzo/Conversor_de_Videos/blob/main/Grava%C3%A7%C3%A3o.mp4)
 
 link do repositório: https://github.com/Torugo-Tozzo/Conversor_de_Videos
 
