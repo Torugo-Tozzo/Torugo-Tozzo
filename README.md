@@ -25,10 +25,6 @@ Testando os conhecimentos fullstack utilizando React e Nodejs.
 ![Imagem do Projeto](./Conversor.png)
 
 
-[![Video_Deomonstração](https://github.com/Torugo-Tozzo/Torugo-Tozzo/assets/114814350/efe063ca-cac7-4aee-8583-610b861e1648)](https://github.com/Torugo-Tozzo/Torugo-Tozzo/assets/114814350/efe063ca-cac7-4aee-8583-610b861e1648 "Título opcional")
-
-
-
 link do repositório: https://github.com/Torugo-Tozzo/Conversor_de_Videos
 
 ### Outro Projeto
