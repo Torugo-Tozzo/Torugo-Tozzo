@@ -18,7 +18,7 @@ Aqui estão algumas das tecnologias que aprendi/estou aprendendo:
 
 ### Conversor
 
-Uma aplicação web de converter videos do youtube a partir das urls. 
+Uma aplicação web de baixar e tambem converter videos do youtube a partir das urls. 
 
 Testando os conhecimentos fullstack utilizando React e Nodejs.
 
