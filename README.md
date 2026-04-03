@@ -18,7 +18,7 @@ Aqui estão algumas das tecnologias que aprendi/estou aprendendo:
 
 ## Site
 
-[site de apresentação](portifolio-eta-one-37.vercel.app)
+[about.me](portifolio-eta-one-37.vercel.app)
 
 ## Projetos
 
