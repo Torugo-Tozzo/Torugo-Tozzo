@@ -18,10 +18,11 @@ Aqui estão algumas das tecnologias que aprendi/estou aprendendo:
 
 ## Site
 
-[tozzo.uk](https://tozzo.uk)
+[site de apresentação](portifolio-eta-one-37.vercel.app)
 
 ## Projetos
 
+[tozzo.uk](https://tozzo.uk)
 <!-- Adicione seus projetos aqui -->
 
 ## Contato
